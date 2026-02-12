@@ -1,31 +1,27 @@
-# Mohan Atkuri
+# Hi, I’m Mohan 👋
 
-PSEO @ UMN • Staley Lab • code + biology + tools
+I like building things at the intersection of code, biology, and real‑world systems.
 
-I like problems where there’s messy real‑world data (labs, nonprofits, robots) and the job is to make it structured, usable, and automated.
+- 🔭 I’m currently working on  
+  microbiome data analysis in the Staley Lab and a few web/tools projects.
 
----
+- 🌱 I’m currently learning  
+  algorithms, probability, and stem‑cell biology, plus getting deeper into comp bio + robotics/swarms.
 
-## What I actually do
+- 👯 I’m looking to collaborate on  
+  small tools for researchers, robotics teams, or nonprofits where software actually changes someone’s day.
 
-- **Microbiome research** – build R/Python workflows for shotgun + 16S data in the Staley/Jahansouz Lab.  
-- **Biotech modeling** – prototyped and shipped a fluorescence‑simulation web tool for a YC‑backed startup.  
-- **Robotics** – wrote control + vision code for an FRC robot (four‑motor arm, game‑piece tracking).  
-- **Nonprofit infra** – built FYRS, a Python + MongoDB system that auto‑generates and emails donor tax receipts.  
+- 🤔 I’m looking for help with  
+  breaking into more multi‑agent / robotics work and figuring out how to point my CS + bio mix in the right direction.
 
----
+- 💬 Ask me about  
+  automating boring workflows, student club tooling, FIRST robotics code, or getting started with microbiome analysis.
 
-## Some projects
+- 📫 How to reach me  
+  `mohanatkuri@gmail.com` • `atkur001@umn.edu` • `linkedin.com/in/mohan8`
 
-- **MNClubConnect** – Next.js/TypeScript + Firebase platform for discovering student clubs.  
-- **Urban Fox** – React Native app that makes running into a multiplayer game.  
-- **FYRS** – desktop app that churns out IRS‑compliant yearly donation statements for a 501(c)(3).
+- 😄 Pronouns  
+  he/him
 
----
-
-## Currently
-
-- Classes: algorithms, probability, stem cells, medical ethics, startup customer development.  
-- Interests: comp bio, swarm/robotics, and building tools that sit between research and production.
-
-More soon at **atkuri.com**.  
+- ⚡ Fun fact  
+  I’ve written software for everything from dog‑poop microbiome data to temple donation receipts to robots chasing game pieces.
