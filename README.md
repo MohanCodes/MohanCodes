@@ -8,7 +8,7 @@ I am a high school and PSEO student at the University of Minnesota interested in
 
 🤝 Open to: research collaborations that need dependable compute and analysis, early‑stage teams shipping biomedical or data‑infrastructure products, and mentoring students breaking into CS or comp bio.
 
-💬 Ask me about: metagenomics workflows, making one‑off scripts into reproducible pipelines, automating nonprofit operations, FIRST Robotics control/vision, or how to go from zero to your first bioinformatics project.
+💬 Ask me about: metagenomics workflows, making one‑off scripts into reproducible pipelines, helping nonprofits focus on what matters, FIRST Robotics control/vision, or how to go from zero to your first bioinformatics project.
 
 🧰 For learners: happy to share starter templates, code reviews, and "here's how I'd structure this" guidance-especially for R/Python data projects.
 
