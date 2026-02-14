@@ -13,5 +13,3 @@ I am a high school and PSEO student at the University of Minnesota interested in
 🧰 For learners: happy to share starter templates, code reviews, and "here's how I'd structure this" guidance-especially for R/Python data projects.
 
 📫 Reach me: mohanatkuri@gmail.com · atkur001@umn.edu · [linkedin.com/in/mohan8](https://www.linkedin.com/in/mohan8)
-
-⚡ Fun fact: I've shipped production code for everything from dog‑poop sequencing runs to annual tax receipts to robots chasing foam game pieces.
