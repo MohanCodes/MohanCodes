@@ -1,6 +1,6 @@
 # Hi, I'm Mohan 👋
 
-## I am a high school and PSEO student at the University of Minnesota interested in computational biology and bioengineering. While taking university courses in algorithms, probability, and stem‑cell biology, I work in the Staley Lab on microbiome data from canine lymphoma and sarcoma patients. I also do freelance web development for nonprofits and student organizations, building tools that automate workflows and surface data people actually need.
+I am a high school and PSEO student at the University of Minnesota interested in computational biology and bioengineering. While taking university courses in algorithms, probability, and stem‑cell biology, I work in the Staley Lab on microbiome data from canine lymphoma and sarcoma patients. I also do freelance web development for nonprofits and student organizations, building tools that automate workflows and surface data people actually need.
 
 🔭 Building now: reproducible R/Python pipelines for cancer‑associated metagenomics, a fluorescence‑simulation web app for a YC‑backed biotech startup, and [MNClubConnect](https://www.mnclubconnect.com/)-a platform serving 3,500+ students.
 
