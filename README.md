@@ -1,27 +1,17 @@
-# Hi, I’m Mohan 👋
+# Hi, I'm Mohan 👋
 
-I like building things at the intersection of code, biology, and real‑world systems.
+## I am a high school and PSEO student at the University of Minnesota interested in computational biology and bioengineering. While taking university courses in algorithms, probability, and stem‑cell biology, I work in the Staley Lab on microbiome data from canine lymphoma and sarcoma patients. I also do freelance web development for nonprofits and student organizations, building tools that automate workflows and surface data people actually need.
 
-- 🔭 I’m currently working on  
-  microbiome data analysis in the Staley Lab and a few web/tools projects.
+🔭 Building now: reproducible R/Python pipelines for cancer‑associated metagenomics, a fluorescence‑simulation web app for a YC‑backed biotech startup, and [MNClubConnect](https://www.mnclubconnect.com/)-a platform serving 3,500+ students.
 
-- 🌱 I’m currently learning  
-  algorithms, probability, and stem‑cell biology, plus getting deeper into comp bio + robotics/swarms.
+🌱 Leveling up: rigorous statistics for high‑dimensional biology, cleaner software architecture, and sharper problem framing—turning "interesting" into "testable."
 
-- 👯 I’m looking to collaborate on  
-  small tools for researchers, robotics teams, or nonprofits where software actually changes someone’s day.
+🤝 Open to: research collaborations that need dependable compute and analysis, early‑stage teams shipping biomedical or data‑infrastructure products, and mentoring students breaking into CS or comp bio.
 
-- 🤔 I’m looking for help with  
-  breaking into more multi‑agent / robotics work and figuring out how to point my CS + bio mix in the right direction.
+💬 Ask me about: metagenomics workflows, making one‑off scripts into reproducible pipelines, automating nonprofit operations, FIRST Robotics control/vision, or how to go from zero to your first bioinformatics project.
 
-- 💬 Ask me about  
-  automating boring workflows, student club tooling, FIRST robotics code, or getting started with microbiome analysis.
+🧰 For learners: happy to share starter templates, code reviews, and "here's how I'd structure this" guidance-especially for R/Python data projects.
 
-- 📫 How to reach me  
-  `mohanatkuri@gmail.com` • `atkur001@umn.edu` • `linkedin.com/in/mohan8`
+📫 Reach me: mohanatkuri@gmail.com · atkur001@umn.edu · linkedin.com/in/mohan8
 
-- 😄 Pronouns  
-  he/him
-
-- ⚡ Fun fact  
-  I’ve written software for everything from dog‑poop microbiome data to temple donation receipts to robots chasing game pieces.
+⚡ Fun fact: I've shipped production code for everything from dog‑poop sequencing runs to annual tax receipts to robots chasing foam game pieces.
